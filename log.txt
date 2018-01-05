@@ -1,0 +1,162 @@
+my-tweets
+Oh well, just subtract 5 hours.
+  Tweeted on or about: Wed Jan 03 00:21:30 +0000 2018
+If I could only get the Twitter node package to realize that I live in the EST time zone, that would be awesome.
+  Tweeted on or about: Wed Jan 03 00:16:45 +0000 2018
+Dude, I think my homework is going pretty well so far!
+  Tweeted on or about: Wed Jan 03 00:10:26 +0000 2018
+Well that didn't work.  Twitter does not, obviously, parse javaScript.
+  Tweeted on or about: Sun Dec 31 19:49:32 +0000 2017
+for (var i = 3; i &lt; 20; i++){console.log('This is tweet #' + i);}
+  Tweeted on or about: Sun Dec 31 19:48:33 +0000 2017
+Test tweet #2.  Hang on people, only 18 more to go and we can stop!
+  Tweeted on or about: Sun Dec 31 19:47:10 +0000 2017
+This is a test tweet! Hello World!
+  Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017
+-------Logged: Wed Jan 03 2018 12:46:58 GMT-0500 (Eastern Standard Time)-------
+
+spotify-this-song The Sign
+Artist(s): Ace of Base
+Song: The Sign
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d257cd3db3b54550a9439dd730359672
+Album: The Sign (US Album) [Remastered]
+-------Logged: Wed Jan 03 2018 12:52:02 GMT-0500 (Eastern Standard Time)-------
+
+movie-this Star Wars
+Title: Star Wars: Episode IV - A New Hope
+Year released: 1977
+IMDB rating: 8.7
+Rotten Tomatoes rating: 93%
+Country(s) of production: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+-------Logged: Wed Jan 03 2018 12:55:15 GMT-0500 (Eastern Standard Time)-------
+
+do-what-it-says 'spotify-this-song "I Want it That Way"'
+spotify-this-song "I Want it That Way"
+Artist(s): Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d257cd3db3b54550a9439dd730359672
+Album: The Hits--Chapter One
+-------Logged: Wed Jan 03 2018 13:04:36 GMT-0500 (Eastern Standard Time)-------
+
+do-what-it-says 'spotify-this-song "I Want it That Way"'
+spotify-this-song "I Want it That Way"
+Artist(s): Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d257cd3db3b54550a9439dd730359672
+Album: The Hits--Chapter One
+-------Logged: Wed Jan 03 2018 13:05:27 GMT-0500 (Eastern Standard Time)-------
+
+movie-this Honey I Shrunk the Kids
+Title: Honey, I Shrunk the Kids
+Year released: 1989
+IMDB rating: 6.3
+Rotten Tomatoes rating: 75%
+Country(s) of production: USA, Mexico
+Language: English
+Plot: The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.
+Actors: Rick Moranis, Matt Frewer, Marcia Strassman, Kristine Sutherland
+-------Logged: Wed Jan 03 2018 13:06:37 GMT-0500 (Eastern Standard Time)-------
+
+spotify-this-song Comfortably Numb
+Artist(s): Pink Floyd
+Song: Comfortably Numb
+Preview: https://p.scdn.co/mp3-preview/daf1a7a5cf0ca8fc212ce61ac3d058fb12e2814f?cid=d257cd3db3b54550a9439dd730359672
+Album: The Wall
+-------Logged: Wed Jan 03 2018 13:07:17 GMT-0500 (Eastern Standard Time)-------
+
+spotify-this-song the sign
+Artist(s): Ty Dolla $ign
+Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=d257cd3db3b54550a9439dd730359672
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+-------Logged: Wed Jan 03 2018 22:46:45 GMT-0500 (Eastern Standard Time)-------
+
+movie-this star wars
+Title: Star Wars: Episode IV - A New Hope
+Year released: 1977
+IMDB rating: 8.7
+Rotten Tomatoes rating: 93%
+Country(s) of production: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+-------Logged: Wed Jan 03 2018 22:47:35 GMT-0500 (Eastern Standard Time)-------
+
+movie-this spaceballs
+Title: Spaceballs
+Year released: 1987
+IMDB rating: 7.1
+Rotten Tomatoes rating: 57%
+Country(s) of production: USA
+Language: English
+Plot: Planet Spaceballs' President Skroob sends Lord Dark Helmet to steal planet Druidia's abundant supply of air to replenish their own, and only Lone Starr can stop them.
+Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+-------Logged: Wed Jan 03 2018 22:47:50 GMT-0500 (Eastern Standard Time)-------
+
+spotify-this-song hello dolly
+Artist(s): Louis Armstrong
+Song: Hello, Dolly!
+Preview: null
+Album: Hello, Dolly!
+-------Logged: Wed Jan 03 2018 22:48:56 GMT-0500 (Eastern Standard Time)-------
+
+spotify-this-song Hello Dolly
+Artist(s): Louis Armstrong
+Song: Hello, Dolly!
+Preview: null
+Album: Hello, Dolly!
+-------Logged: Wed Jan 03 2018 22:49:22 GMT-0500 (Eastern Standard Time)-------
+
+spotify-this-song Us and Them
+Artist(s): Pink Floyd
+Song: Us and Them
+Preview: https://p.scdn.co/mp3-preview/021c52015787b3b1a75ca64d41a034c52119c677?cid=d257cd3db3b54550a9439dd730359672
+Album: The Dark Side of the Moon
+-------Logged: Wed Jan 03 2018 22:50:27 GMT-0500 (Eastern Standard Time)-------
+
+spotify-this-song The Sine
+Artist(s): 36
+Song: Beyond the Heliosphere
+Preview: https://p.scdn.co/mp3-preview/81b7b372008efdf91e42a1344368cd1f42d5eb19?cid=d257cd3db3b54550a9439dd730359672
+Album: Sine Dust
+-------Logged: Wed Jan 03 2018 22:51:34 GMT-0500 (Eastern Standard Time)-------
+
+spotify-this-song The Sgin
+Error: TypeError: Cannot read property 'artists' of undefined
+Check your spelling and try again.
+-------Logged: Wed Jan 03 2018 23:18:22 GMT-0500 (Eastern Standard Time)-------
+
+movie-this fdsjgvbcjxbbvm
+An error ocurred: Movie not found!
+-------Logged: Wed Jan 03 2018 23:28:47 GMT-0500 (Eastern Standard Time)-------
+
+do-what-it-says 'spotify-this-song "I Want it That Way"'
+spotify-this-song "I Want it That Way"
+Artist(s): Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d257cd3db3b54550a9439dd730359672
+Album: The Hits--Chapter One
+-------Logged: Wed Jan 03 2018 23:30:51 GMT-0500 (Eastern Standard Time)-------
+
+my-tweets
+I wonder how long it will take for one of my awesome tweets to go viral!
+  Tweeted on or about: Thu Jan 04 13:12:34 +0000 2018
+Oh well, just subtract 5 hours.
+  Tweeted on or about: Wed Jan 03 00:21:30 +0000 2018
+If I could only get the Twitter node package to realize that I live in the EST time zone, that would be awesome.
+  Tweeted on or about: Wed Jan 03 00:16:45 +0000 2018
+Dude, I think my homework is going pretty well so far!
+  Tweeted on or about: Wed Jan 03 00:10:26 +0000 2018
+Well that didn't work.  Twitter does not, obviously, parse javaScript.
+  Tweeted on or about: Sun Dec 31 19:49:32 +0000 2017
+for (var i = 3; i &lt; 20; i++){console.log('This is tweet #' + i);}
+  Tweeted on or about: Sun Dec 31 19:48:33 +0000 2017
+Test tweet #2.  Hang on people, only 18 more to go and we can stop!
+  Tweeted on or about: Sun Dec 31 19:47:10 +0000 2017
+This is a test tweet! Hello World!
+  Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017
+-------Logged: Thu Jan 04 2018 08:13:12 GMT-0500 (Eastern Standard Time)-------
+

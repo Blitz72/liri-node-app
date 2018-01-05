@@ -1,0 +1,96 @@
+my-tweetsOh well, just subtract 5 hours.If I could only get the Twitter node package to realize that I live in the EST time zone, that would be awesome.  Tweeted on or about: Wed Jan 03 00:21:30 +0000 2018  Tweeted on or about: Wed Jan 03 00:16:45 +0000 2018Dude, I think my homework is going pretty well so far!  Tweeted on or about: Wed Jan 03 00:10:26 +0000 2018Well that didn't work.  Twitter does not, obviously, parse javaScript.  Tweeted on or about: Sun Dec 31 19:49:32 +0000 2017for (var i = 3; i &lt; 20; i++){console.log('This is tweet #' + i);}  Tweeted on or about: Sun Dec 31 19:48:33 +0000 2017Test tweet #2.  Hang on people, only 18 more to go and we can stop!  Tweeted on or about: Sun Dec 31 19:47:10 +0000 2017This is a test tweet! Hello World!  Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017my-tweetsOh well, just subtract 5 hours.
+  Tweeted on or about: Wed Jan 03 00:21:30 +0000 2018
+If I could only get the Twitter node package to realize that I live in the EST time zone, that would be awesome.
+  Tweeted on or about: Wed Jan 03 00:16:45 +0000 2018
+Dude, I think my homework is going pretty well so far!
+  Tweeted on or about: Wed Jan 03 00:10:26 +0000 2018
+Well that didn't work.  Twitter does not, obviously, parse javaScript.
+  Tweeted on or about: Sun Dec 31 19:49:32 +0000 2017
+for (var i = 3; i &lt; 20; i++){console.log('This is tweet #' + i);}
+  Tweeted on or about: Sun Dec 31 19:48:33 +0000 2017
+Test tweet #2.  Hang on people, only 18 more to go and we can stop!
+  Tweeted on or about: Sun Dec 31 19:47:10 +0000 2017
+This is a test tweet! Hello World!
+  Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017
+my-tweets
+Oh well, just subtract 5 hours.
+  Tweeted on or about: Wed Jan 03 00:21:30 +0000 2018
+If I could only get the Twitter node package to realize that I live in the EST time zone, that would be awesome.
+  Tweeted on or about: Wed Jan 03 00:16:45 +0000 2018
+Dude, I think my homework is going pretty well so far!
+  Tweeted on or about: Wed Jan 03 00:10:26 +0000 2018
+Well that didn't work.  Twitter does not, obviously, parse javaScript.
+  Tweeted on or about: Sun Dec 31 19:49:32 +0000 2017
+for (var i = 3; i &lt; 20; i++){console.log('This is tweet #' + i);}
+  Tweeted on or about: Sun Dec 31 19:48:33 +0000 2017
+Test tweet #2.  Hang on people, only 18 more to go and we can stop!
+  Tweeted on or about: Sun Dec 31 19:47:10 +0000 2017
+This is a test tweet! Hello World!
+  Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017
+
+spotify-this-song The Sign
+Artist(s): Ace of Base
+spotify-this-song The Sign
+Artist(s): Ace of Base
+Song: The Sign
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d257cd3db3b54550a9439dd730359672
+Album: The Sign (US Album) [Remastered]
+
+my-tweets
+Oh well, just subtract 5 hours.
+  Tweeted on or about: Wed Jan 03 00:21:30 +0000 2018
+If I could only get the Twitter node package to realize that I live in the EST time zone, that would be awesome.
+  Tweeted on or about: Wed Jan 03 00:16:45 +0000 2018
+Dude, I think my homework is going pretty well so far!
+  Tweeted on or about: Wed Jan 03 00:10:26 +0000 2018
+Well that didn't work.  Twitter does not, obviously, parse javaScript.
+  Tweeted on or about: Sun Dec 31 19:49:32 +0000 2017
+for (var i = 3; i &lt; 20; i++){console.log('This is tweet #' + i);}
+  Tweeted on or about: Sun Dec 31 19:48:33 +0000 2017
+Test tweet #2.  Hang on people, only 18 more to go and we can stop!
+  Tweeted on or about: Sun Dec 31 19:47:10 +0000 2017
+This is a test tweet! Hello World!
+  Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017
+
+movie-this Star Wars
+Title: Star Wars: Episode IV - A New Hope
+IMDB rating: 8.7
+Year released: 1977
+Rotten Tomatoes rating: 93%
+Country(s) of production: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+movie-this Honey I Shrunk the Kids
+Title: Honey, I Shrunk the Kids
+Year released: 1989
+IMDB rating: 6.3
+Rotten Tomatoes rating: 75%
+Country(s) of production: USA, Mexico
+Language: English
+Plot: The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.
+Actors: Rick Moranis, Matt Frewer, Marcia Strassman, Kristine Sutherland
+
+my-tweets
+Oh well, just subtract 5 hours.
+  Tweeted on or about: Wed Jan 03 00:21:30 +0000 2018
+If I could only get the Twitter node package to realize that I live in the EST time zone, that would be awesome.
+  Tweeted on or about: Wed Jan 03 00:16:45 +0000 2018
+Dude, I think my homework is going pretty well so far!
+  Tweeted on or about: Wed Jan 03 00:10:26 +0000 2018
+Well that didn't work.  Twitter does not, obviously, parse javaScript.
+  Tweeted on or about: Sun Dec 31 19:49:32 +0000 2017
+for (var i = 3; i &lt; 20; i++){console.log('This is tweet #' + i);}
+  Tweeted on or about: Sun Dec 31 19:48:33 +0000 2017
+Test tweet #2.  Hang on people, only 18 more to go and we can stop!
+  Tweeted on or about: Sun Dec 31 19:47:10 +0000 2017
+This is a test tweet! Hello World!
+  Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017
+
+do-what-it-says "spotify-this-song "I Want it That Way""
+spotify-this-song "I Want it That Way"
+Artist(s): Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d257cd3db3b54550a9439dd730359672
+Album: The Hits--Chapter One
+
