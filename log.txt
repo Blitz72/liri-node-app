@@ -160,3 +160,65 @@ This is a test tweet! Hello World!
   Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017
 -------Logged: Thu Jan 04 2018 08:13:12 GMT-0500 (Eastern Standard Time)-------
 
+my-tweets
+I wonder how long it will take for one of my awesome tweets to go viral!
+  Tweeted on or about: Thu Jan 04 13:12:34 +0000 2018
+Oh well, just subtract 5 hours.
+  Tweeted on or about: Wed Jan 03 00:21:30 +0000 2018
+If I could only get the Twitter node package to realize that I live in the EST time zone, that would be awesome.
+  Tweeted on or about: Wed Jan 03 00:16:45 +0000 2018
+Dude, I think my homework is going pretty well so far!
+  Tweeted on or about: Wed Jan 03 00:10:26 +0000 2018
+Well that didn't work.  Twitter does not, obviously, parse javaScript.
+  Tweeted on or about: Sun Dec 31 19:49:32 +0000 2017
+for (var i = 3; i &lt; 20; i++){console.log('This is tweet #' + i);}
+  Tweeted on or about: Sun Dec 31 19:48:33 +0000 2017
+Test tweet #2.  Hang on people, only 18 more to go and we can stop!
+  Tweeted on or about: Sun Dec 31 19:47:10 +0000 2017
+This is a test tweet! Hello World!
+  Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017
+-------Logged: Thu Jan 04 2018 20:09:31 GMT-0500 (Eastern Standard Time)-------
+
+movie-this Star Wars
+Title: Star Wars: Episode IV - A New Hope
+Year released: 1977
+IMDB rating: 8.7
+Rotten Tomatoes rating: 93%
+Country(s) of production: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+-------Logged: Thu Jan 04 2018 20:11:11 GMT-0500 (Eastern Standard Time)-------
+
+
+=======================================================================================================
+
+
+The following log files were logged after updating liri.js with the .env file.
+
+my-tweets
+I wonder how long it will take for one of my awesome tweets to go viral!
+  Tweeted on or about: Thu Jan 04 13:12:34 +0000 2018
+Oh well, just subtract 5 hours.
+  Tweeted on or about: Wed Jan 03 00:21:30 +0000 2018
+If I could only get the Twitter node package to realize that I live in the EST time zone, that would be awesome.
+  Tweeted on or about: Wed Jan 03 00:16:45 +0000 2018
+Dude, I think my homework is going pretty well so far!
+  Tweeted on or about: Wed Jan 03 00:10:26 +0000 2018
+Well that didn't work.  Twitter does not, obviously, parse javaScript.
+  Tweeted on or about: Sun Dec 31 19:49:32 +0000 2017
+for (var i = 3; i &lt; 20; i++){console.log('This is tweet #' + i);}
+  Tweeted on or about: Sun Dec 31 19:48:33 +0000 2017
+Test tweet #2.  Hang on people, only 18 more to go and we can stop!
+  Tweeted on or about: Sun Dec 31 19:47:10 +0000 2017
+This is a test tweet! Hello World!
+  Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017
+-------Logged: Sun Jan 07 2018 15:35:51 GMT-0500 (Eastern Standard Time)-------
+
+spotify-this-song The Sign
+Artist(s): Ace of Base
+Song: The Sign
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d257cd3db3b54550a9439dd730359672
+Album: The Sign (US Album) [Remastered]
+-------Logged: Sun Jan 07 2018 15:38:56 GMT-0500 (Eastern Standard Time)-------
+
