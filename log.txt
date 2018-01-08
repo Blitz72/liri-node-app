@@ -222,3 +222,29 @@ Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?
 Album: The Sign (US Album) [Remastered]
 -------Logged: Sun Jan 07 2018 15:38:56 GMT-0500 (Eastern Standard Time)-------
 
+my-tweets
+I wonder how long it will take for one of my awesome tweets to go viral!
+  Tweeted on or about: Thu Jan 04 13:12:34 +0000 2018
+Oh well, just subtract 5 hours.
+  Tweeted on or about: Wed Jan 03 00:21:30 +0000 2018
+If I could only get the Twitter node package to realize that I live in the EST time zone, that would be awesome.
+  Tweeted on or about: Wed Jan 03 00:16:45 +0000 2018
+Dude, I think my homework is going pretty well so far!
+  Tweeted on or about: Wed Jan 03 00:10:26 +0000 2018
+Well that didn't work.  Twitter does not, obviously, parse javaScript.
+  Tweeted on or about: Sun Dec 31 19:49:32 +0000 2017
+for (var i = 3; i &lt; 20; i++){console.log('This is tweet #' + i);}
+  Tweeted on or about: Sun Dec 31 19:48:33 +0000 2017
+Test tweet #2.  Hang on people, only 18 more to go and we can stop!
+  Tweeted on or about: Sun Dec 31 19:47:10 +0000 2017
+This is a test tweet! Hello World!
+  Tweeted on or about: Sun Dec 31 19:45:58 +0000 2017
+-------Logged: Mon Jan 08 2018 15:03:05 GMT-0500 (Eastern Standard Time)-------
+
+spotify-this-song Hey Jude
+Artist(s): Wilson Pickett
+Song: Hey Jude
+Preview: https://p.scdn.co/mp3-preview/f9bd7992e08e00c43e21ceeb3f06568cfd961913?cid=d257cd3db3b54550a9439dd730359672
+Album: Hey Jude
+-------Logged: Mon Jan 08 2018 15:03:21 GMT-0500 (Eastern Standard Time)-------
+

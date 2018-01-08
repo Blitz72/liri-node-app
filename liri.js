@@ -4,19 +4,16 @@ var Spotify = require('node-spotify-api');
 var request = require('request');
 var fs = require("fs");
 
-// var keys = require("./keys.js");
+var keys = require("./keys.js");
 
 var nodeArgs = process.argv;
 var textFile = "log.txt";	//var textFile = "test.txt";
 
 function myTweets() {
 
-	var client = new Twitter({
-		consumer_key: process.env.TWITTER_CONSUMER_KEY,
-		consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
-		access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
-		access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
-	});
+	var client = new Twitter(
+		keys.twitterKeys
+	);
 		 
 	var params = {screen_name: 'bauerdavid2'};
 	client.get('statuses/user_timeline', params, function(error, tweets, response) {
@@ -49,10 +46,9 @@ function myTweets() {
 
 function spotifyThisSong(song) {
 
-	var spotify = new Spotify({
-		id: process.env.SPOTIFY_ID,
-		secret: process.env.SPOTIFY_SECRET
-	});
+	var spotify = new Spotify(
+		keys.spotifyKeys
+	);
 
 	var indexer = 0;
 
